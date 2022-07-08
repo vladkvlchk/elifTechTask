@@ -1,0 +1,15 @@
+ul{
+    margin: 1em;
+    background-color: aliceblue;
+    border-radius: 15px;
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+  
+    li{
+      padding: 15px;
+      a{
+        color: green;
+      }
+    }
+  }

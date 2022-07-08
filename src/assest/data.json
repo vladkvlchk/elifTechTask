@@ -1,0 +1,118 @@
+{
+    "companies": [
+        "cream pie",
+        "two pizzas",
+        "burger prince"
+    ],
+    "goods": {
+        "cream pie": [
+            {
+                "id": 0,
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/Donut_Raspberry-Cheesecake.png?$Product_Desktop$",
+                "title": "Donate Raspberry",
+                "price": 3.9
+            },
+            {
+                "id": 1,
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/McSundaeChoco.png?$Product_Desktop$",
+                "title": "Ice Cream Chocolate",
+                "price": 4.9
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/IceCone.png?$Product_Desktop$",
+                "title": "Ice Cream",
+                "price": 3.9
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/McPie_Raspberry-Cream.png?$Product_Desktop$",
+                "title": "Pie Cream and Raspberry",
+                "price": 3.9
+            }
+        ],
+        "two pizzas": [
+            {
+              "id": 0,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/5630c6ed3f394c7ba25e1ef79a67b7ee_1875x1875.jpeg",
+              "title": "Ham and cheese",
+              "price": 32.9
+            },
+            {
+              "id": 1,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/eb6d128bbcd340e98fd4f14b377e769f_1875x1875.jpeg",
+              "title": "Pepperoni fresh",
+              "price": 29.9
+            },
+            {
+              "id": 2,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/a02280d5dd9342f7925538752be9b521_1875x1875.jpeg",
+              "title": "Four seasons",
+              "price": 49.9
+            },
+            {
+              "id": 3,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/bf3377af7cfe4962915668d14bb8d0f4_1875x1875.jpeg",
+              "title": "Pepperoni",
+              "price": 43.9
+            },
+            {
+              "id": 4,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/f440c85c436a4284afad6ecfc43c1fab_1875x1875.jpeg",
+              "title": "Cherozzo fresh",
+              "price": 29.9
+            },
+            {
+              "id": 5,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/b473722281944c78ae1d6532576f92fa_1875x1875.jpeg",
+              "title": "Homemade",
+              "price": 43.9
+            },
+            {
+              "id": 6,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/aa845b6e841241fbbff1a770b3ad3103_1875x1875.jpeg",
+              "title": "Ham and Mushrooms",
+              "price": 38.9
+            },
+            {
+              "id": 7,
+              "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/57157f013c164840a24c1d49c7adb3b6_1875x1875.jpeg",
+              "title": "Pizza Chicken BBQ",
+              "price": 48.9
+            }
+          ],
+        "burger prince": [
+            {
+                "id": 0,
+                "title": "Burger Chicken-Bacon",
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/Sdwch_McChicken_Bacon.png?$Product_Desktop$",
+                "price": 7.9
+            },
+            {
+                "id": 1,
+                "title": "Burger Tasty",
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/SdwchBigTasty.png?$Product_Desktop$",
+                "price": 11.9
+            },
+            {
+                "id": 2,
+                "title": "Cheeseburger",
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/Royal_Cheese.png?$Product_Desktop$",
+                "price": 5.9
+            },
+            {
+                "id": 3,
+                "title": "Fish Roll",
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/RollFish.png?$Product_Desktop$",
+                "price": 7.9
+            },
+            {
+                "id": 4,
+                "title": "Chicken Roll",
+                "imageUrl": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/hero/RollChicken.png?$Product_Desktop$",
+                "price": 7.9
+            }
+        ]
+    }
+
+}

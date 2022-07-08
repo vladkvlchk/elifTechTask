@@ -1,0 +1,18 @@
+.shopItem {
+    height: 200px;
+    min-width: 300px;
+    width: auto;
+    border: 1px solid rgba(0, 128, 0, 0.1);
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    margin: 2px;
+    img{
+        height: 140px;
+    }
+    p{
+        text-align: start;
+        padding: 1em;
+        padding-top: 0;
+    }
+}
